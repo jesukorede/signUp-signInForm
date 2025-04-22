@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/YOUR_REPO_NAME/static/js/main.7f732021.js",
-    "index.html": "/YOUR_REPO_NAME/index.html",
-    "main.7f732021.js.map": "/YOUR_REPO_NAME/static/js/main.7f732021.js.map"
+    "main.js": "/signUp-signInForm/static/js/main.f792a40e.js",
+    "index.html": "/signUp-signInForm/index.html",
+    "main.f792a40e.js.map": "/signUp-signInForm/static/js/main.f792a40e.js.map"
   },
   "entrypoints": [
-    "static/js/main.7f732021.js"
+    "static/js/main.f792a40e.js"
   ]
 }
